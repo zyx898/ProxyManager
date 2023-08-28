@@ -16,8 +16,6 @@ Simple locking mechanism for concurrency control.
 1. Installation
 Clone the repository:
 ```
-bash
-Copy code
 git clone https://github.com/zyx898/ProxyManager.git
 cd ProxyManager
 ```
@@ -25,8 +23,6 @@ cd ProxyManager
 2. Utilizing ProxyManager
 First, ensure your proxy file is structured correctly, with each proxy on a new line:
 ```
-makefile
-Copy code
 ip1:port1
 ip2:port2:username2:password2
 ```
