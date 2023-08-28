@@ -42,7 +42,7 @@ const nextProxy = manager.nextProxy();
 ```
 `Replace path-to-proxymanager-file and path-to-proxy-file.txt with the appropriate paths in your project.`
 
-Class Details
+# Class Details
 
 Proxy: Represents a single proxy configuration. Can parse proxy strings and provide a dictionary format suitable for libraries like Axios.
 
