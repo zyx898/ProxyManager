@@ -5,10 +5,10 @@
 This repository contains a straightforward and effective solution for managing multiple proxy configurations in Node.js applications.
 
 Features
-Parse proxy strings from file or directly.
-Support for both authenticated and non-authenticated proxies.
-Fetch a random proxy or iterate through them in a controlled manner.
-Simple locking mechanism for concurrency control.
+- Parse proxy strings from file or directly.
+- Support for both authenticated and non-authenticated proxies.
+- Fetch a random proxy or iterate through them in a controlled manner.
+- Simple locking mechanism for concurrency control.
 
 -------------------------------------------------------
 
